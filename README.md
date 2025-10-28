@@ -1,4 +1,8 @@
-## Hi, I'm Coti 
+## Hi, I'm Coti 🤓
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTRkbTRxYjFlbWJ6eGdxN28yeXR4aWt5ZmI5eGdlNzhhNXkwbnJveCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1dxi6xdh4NGQCZSvz/giphy.gif" width="250">
+</p>
 
 🌳 **Forest Engineer** with expertise in GIS and Remote Sensing
 
